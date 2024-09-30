@@ -15,8 +15,8 @@ Zamanonymize is an advanced text anonymization tool that uses Fully Homomorphic 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/Zamanonymize2.git
-   cd Zamanonymize2
+   git clone https://github.com/nizarzerouale/Zamanonymize.git
+   cd Zamanonymize
    ```
 
 2. Create a virtual environment (optional but recommended):
