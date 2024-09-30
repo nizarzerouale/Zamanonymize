@@ -1,10 +1,10 @@
 # Zamanonymize
 
-Zamanonymize is an advanced text anonymization tool that uses Fully Homomorphic Encryption (FHE) and Natural Language Processing (NLP) techniques to detect and anonymize Personally Identifiable Information (PII) in transcribed audio files.
+Zamanonymize is an advanced voice anonymization tool that uses Fully Homomorphic Encryption (FHE) and Natural Language Processing (NLP) techniques to detect and anonymize Personally Identifiable Information (PII) in transcribed audio files.
 
 ## Features
 
-- Upload and process transcribed audio text files
+- Upload and process audio  files
 - Detect PII using a pre-trained Concrete ML model and NLP techniques
 - Anonymize detected PII by replacing it with unique identifiers
 - Preserve the structure and readability of the original text
