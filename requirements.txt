@@ -1,0 +1,9 @@
+concrete-ml==1.5.0rc0
+gensim==4.3.2
+gradio
+presidio-analyzer
+presidio-anonymizer
+librosa
+torch
+transformers
+argparse

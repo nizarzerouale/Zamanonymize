@@ -1,0 +1,11 @@
+Contract parties: 70cc584b and ad1fa7f7
+
+Date: fbca415c 6ddb6ec5, 6cd46b6c
+
+Scope: ad1fa7f7 agrees to provide graphic design services to 70cc584b for the creation of a company logo.
+
+Amount: 70cc584b agrees to pay ad1fa7f7 3c42bb9a upon completion and delivery of the logo.
+
+Deadline: The logo design must be completed and delivered to 70cc584b within 14-days of the contract signing date.
+
+Payment terms: ad1fa7f7's international bank account N: 808ce476
