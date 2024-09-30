@@ -48,18 +48,49 @@ Zamanonymize is an advanced text anonymization tool that uses Fully Homomorphic 
 
 ```
 Zamanonymize2/
+├── README.md
+├── anonymize_file_clear.py
 ├── app.py
-├── models/
+├── deployment
+│   ├── client.zip
+│   ├── server.zip
+│   └── versions.json
+├── fhe_anonymization_banner.png
+├── fhe_anonymizer.py
+├── files
+│   ├── Conversation en français (présentation) dialogue n° 1.wav
+│   ├── Hello, My name is Inigo Montoya.....wav
+│   ├── SELF-INTRODUCTION VIDEO  30 SECONDS.wav
+│   ├── anonymized_document.txt
+│   ├── chatgpt_prompt.txt
+│   ├── encrypted_document.txt
+│   ├── mapping_clear_to_anonymized.pkl
+│   ├── mapping_clear_to_encrypted.pkl
+│   ├── mapping_doc_embedding_path.pkl
+│   ├── original_document.txt
+│   └── original_document_uuid_mapping.json
+├── images
+│   └── logos
+│       ├── Capture d'écran 2024-09-28 à 14.44.03.png
+│       ├── community.png
+│       ├── documentation.png
+│       ├── github.png
+│       ├── x.png
+│       └── zama.jpg
+├── models
 │   ├── cml_logreg.model
-│   └── test_ner_model.py
-├── utils/
-│   ├── anonymization.py
-│   ├── data_handling.py
-│   └── inference.py
-├── transcriptions/
-├── data/
+│   └── speech_to_text
+│       ├── main.py
+│       ├── requirements.txt
+│       └── transcriber
+│           ├── __init__.py
+│           ├── __pycache__
+│           ├── audio.py
+│           ├── model.py
+│           └── utils.py
 ├── requirements.txt
-└── README.md
+├── server.py
+└── utils_demo.py
 ```
 
 - `app.py`: Main Streamlit application file
